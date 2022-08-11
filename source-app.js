@@ -1,10 +1,5 @@
 firebase.initializeApp({
-    // apiKey: "AIzaSyCY2NvECqyvk_OH60hbGUBiYGVV4A9OKpE",
-    // authDomain: "messagegate-f664d.firebaseapp.com",
-    // projectId: "messagegate-f664d",
-    // storageBucket: "messagegate-f664d.appspot.com",
-    // appId: "1:815554922507:web:f914f365465a227d18df0e",
-    messagingSenderId: "815554922507"
+    messagingSenderId: '448358493027'
 });
 
 
@@ -187,7 +182,7 @@ function getToken() {
 
 
 function sendNotification(notification) {
-    var key = 'AAAAveLciAs:APA91bGB67PGTs1ETWUoiA6Y4kN7y_IhGdAuxUH3zxnyb4E4k597BD2Xxu0cgz3DwA5EkqFTZ85SGS0hm2sbQXbi_OaElLzmHL4H2vpzI_w7-I4qrr1R8otO6cLlE3-vCJqdoUFpIwhX ';
+    var key = 'AAAAaGQ_q2M:APA91bGCEOduj8HM6gP24w2LEnesqM2zkL_qx2PJUSBjjeGSdJhCrDoJf_WbT7wpQZrynHlESAoZ1VHX9Nro6W_tqpJ3Aw-A292SVe_4Ho7tJQCQxSezDCoJsnqXjoaouMYIwr34vZTs';
 
     console.log('Send notification', notification);
 
