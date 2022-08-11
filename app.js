@@ -187,7 +187,7 @@ function getToken() {
 
 
 function sendNotification(notification) {
-    var key = 'AAAAveLciAs:APA91bGB67PGTs1ETWUoiA6Y4kN7y_IhGdAuxUH3zxnyb4E4k597BD2Xxu0cgz3DwA5EkqFTZ85SGS0hm2sbQXbi_OaElLzmHL4H2vpzI_w7-I4qrr1R8otO6cLlE3-vCJqdoUFpIwhX ';
+    var key = 'AAAAveLciAs:APA91bGB67PGTs1ETWUoiA6Y4kN7y_IhGdAuxUH3zxnyb4E4k597BD2Xxu0cgz3DwA5EkqFTZ85SGS0hm2sbQXbi_OaElLzmHL4H2vpzI_w7-I4qrr1R8otO6cLlE3-vCJqdoUFpIwhX';
 
     console.log('Send notification', notification);
 
