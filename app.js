@@ -1,7 +1,6 @@
 firebase.initializeApp({
-    messagingSenderId: '815554922507'
+    messagingSenderId: '448358493027'
 });
-// 448358493027
 
 
 var bt_register = $('#register');
